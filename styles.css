@@ -1,0 +1,14 @@
+body{
+  font-family: Courier New;
+  background-color: #eeeeee;
+}
+
+h1 {
+  font-size: 50px;
+  margin: 0;
+}
+
+h2 {
+  color: #555;
+  border-top: solid 1px #333;
+}
