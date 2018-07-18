@@ -1889,3 +1889,7 @@ iframe {
   -o-transition: 350ms;
   transition: 350ms;
 }
+#title {
+  /*font-size: 40px;*/
+
+}
